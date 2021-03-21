@@ -1,4 +1,5 @@
 <<<<<<< HEAD:test.cpp
+<<<<<<< HEAD:test.cpp
 #include <stdio.h>
 int Nt(int n)
 {
@@ -14,3 +15,11 @@ main()
 }
 =======
 >>>>>>> parent of 518b60d (commit to repository):test.txt
+=======
+#include stdio.h
+
+main()
+{
+	printf("hello world");
+}
+>>>>>>> 2947c361a3f38b2426b2d21ca4f67385ff0acd70:test.txt

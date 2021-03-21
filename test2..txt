@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 abcd
+=======
+mô tả:...abc
+change
+change2
+change3
+>>>>>>> 2947c361a3f38b2426b2d21ca4f67385ff0acd70
